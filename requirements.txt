@@ -1,0 +1,6 @@
+python-dotenv
+shapely
+flask
+ezdxf
+openai
+gunicorn
